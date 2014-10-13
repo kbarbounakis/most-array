@@ -1,0 +1,39 @@
+{
+  "name": "most-array",
+  "version": "1.0.1",
+  "description": "Most Web Framework Array Extensions Module",
+  "homepage": "http://www.most-framework.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbarbounakis/most-array.git"
+  },
+  "keywords": [
+	"array",
+	"arrays",
+	"array.js",
+	"arrayjs",
+	"skip",
+	"where",
+	"any",
+	"take",
+	"select",
+	"order",
+	"first",
+	"last"
+  ],
+  "author": {
+    "name": "Kyriakos Barbounakis",
+    "email": "k.barbounakis@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "BSD-3 Clause"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "lib/array",
+  "scripts": { },
+  "_id": "most-array@1.0.1",
+  "_from": "most-array@"
+}
