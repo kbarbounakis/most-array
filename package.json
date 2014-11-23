@@ -2,7 +2,7 @@
   "name": "most-array",
   "version": "1.0.1",
   "description": "Most Web Framework Array Extensions Module",
-  "homepage": "http://www.most-framework.com",
+  "homepage": "https://github.com/kbarbounakis/most-array",
   "repository": {
     "type": "git",
     "url": "https://github.com/kbarbounakis/most-array.git"
